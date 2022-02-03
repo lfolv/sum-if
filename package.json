@@ -1,0 +1,20 @@
+{
+  "name": "sum-if",
+  "version": "1.0.0",
+  "description": "Sum values in a array if it's pass a function condition",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfolv/sum-if.git"
+  },
+  "keywords": [],
+  "author": "Lucas Oliveira <inbox.lucasoliveira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfolv/sum-if/issues"
+  },
+  "homepage": "https://github.com/lfolv/sum-if#readme"
+}
